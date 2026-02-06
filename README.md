@@ -1,8 +1,7 @@
-# miPrimerRepo
-un ejemplo de repositorio en github
-
-# segunda actualizacion 
-intento de push 
-
-# nueva actualizacion  para entendes los cambios 
-intento mas lento
+# Git Flow Basico
+comandos para el flujo de git basico 
+````sh
+git status 
+git add , o git add -a
+git status
+git commit -m "descripcion del cambio del proyecto"
