@@ -5,3 +5,7 @@ git status
 git add , o git add -a
 git status
 git commit -m "descripcion del cambio del proyecto"
+git push 
+````
+## nota 
+si no me dice quien soy entonces restaurar la pc
